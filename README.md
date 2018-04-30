@@ -19,7 +19,7 @@ Online editors
 ## Validating HTML
 Given an invalid HTML document, try to create valid markup using your text editor to help you.
 
-[Invalid HTML page](index.html)
+[Invalid HTML page](invalid_page.html)
 
 ## Resources
 * Smashing Magazine - https://www.smashingmagazine.com/
